@@ -1,16 +1,13 @@
-## Hi there 👋
+やっぴっぴぴっや です。  
+やっぴ になったり、 やっぴっぴ になったり、ぴっぴ になったりします。
 
-<!--
-**yappippipiyya/yappippipiyya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+主にPythonを使ったDiscord bot、LINE botの開発をしています。  
+HTML, CSS, JSもほんのちょっとだけかけます。
 
-Here are some ideas to get you started:
+この間
+```py
+self._hoge()
+```
+というコードを書いた時に成長したなと思いました。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+がんばります。
